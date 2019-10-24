@@ -1,0 +1,304 @@
+body { 
+
+margin: 0; 
+padding:0;
+font-family: sans-serif; 
+list-style-type: none;
+;
+text-decoration: none; 
+list-style: none; 
+ }
+
+ .cardcontainer .card a { 
+
+ color: grey;
+
+  }
+
+
+ html {
+	
+	scroll-behavior : smooth; 
+}
+
+ .navbare {
+
+ 	background-color: #FFFFFF; 
+ 	color: #000000;
+ 	padding: 10px 0px 0px 10px ;	
+ }
+
+ .navbare ul {
+ 	display: flex;
+ 	justify-content: space-between;
+ 	list-style: none;
+ }
+
+ .navbare ul a {
+ 	 	text-decoration: none;
+ 	color: black;
+ }
+
+ .nav-lien {
+ 	display: flex;
+ 	align-items: center;
+ }
+
+  .nav-lien li {
+ 	margin-right: 20px;
+ 	font-family: 'Quicksand', sans-serif;
+ }
+
+
+ .nav > li {
+
+ 	display: inline-block;
+ 	padding-right: 50px;
+ 	font-size: 20px; 
+ 	font-family: 'Quicksand', sans-serif;
+
+
+ }
+
+ .nav > li > a {
+
+ 	text-decoration: none;
+ 	color: #000000; 
+
+
+ }
+
+ .nav > li > a:hover {
+
+ 	color : #707070 ;
+
+
+ } 
+
+ .card { 
+
+ 	text-align: center;
+ 	background-color: white; 
+ 	border-radius: 4px;
+ 	padding : 20px;
+
+  }
+
+
+ .cardcontainer {
+
+ 	display: flex ;
+ 	justify-content: space-between;
+ 	grid-template-columns: 1fr 1fr 1fr;
+ 	grid-gap: 10px;
+ 	padding : 50px;
+ 	margin : 0px;
+
+ } 
+
+.card img {
+
+	height : 300px ;
+}
+
+
+ .header > img  {
+
+
+ 	width: 100%;
+ 	height: auto; 
+ 	padding-bottom: 10px;
+ 	padding-top: 10px; 
+
+ }
+
+
+
+ .logo a { 
+
+ 	color: 000000; 
+ 	float: left ;
+ 	padding-left: 20px;
+ 	font-size: 30px ;
+ 	font-weight: bold;
+ 	font-family: 'Quicksand', sans-serif;
+
+  }
+
+  .logo > a {
+
+  	text-decoration: none; 
+  	color:black; 
+  	; 
+  }
+
+.search-box{
+
+	position: absolute;
+	left : 50% ;
+	transform : translate(-50%, -50%);
+	background: #2f3640 ;
+	height: 40px ;
+	border-radius: 40px;
+	padding : 10px ;
+
+}
+
+
+
+
+.avatar {
+	width: 40px;
+    height: 40px;
+	border-radius: 50%;
+}
+
+
+
+footer {
+    
+    justify-content: left;
+    padding: 10px;
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: left 
+
+
+}
+
+.textfooter {
+
+	text-align: right; 
+
+
+}
+
+.foot {
+
+	padding-left: 45px; 
+}
+
+
+footer .textfooter .foot {
+
+	display: flex; 
+}
+
+
+
+footer ul {
+
+	list-style: none; 
+	color : white;
+	padding-right: 25px; 
+	font-size: 15px; 
+	
+
+
+
+
+}
+
+footer ul a {
+ 
+	color : white;
+	text-decoration: none;
+	  
+}
+
+
+footer ul a:hover {
+
+	color: grey;
+	text-decoration: none; 
+}
+
+.mx-auto{
+
+ 	padding-top: 20px; 
+ 	margin-bottom: -30px;
+ 	font-size: 20px; 
+ 	font-family: 'Quicksand', sans-serif;
+
+
+
+}
+
+
+.mx-auto > li > a {
+
+ 	text-decoration: none;
+ 	color: #000000; 
+
+
+
+
+ }
+
+ .mx-auto > li > a:hover {
+
+ 	color : #707070 ;
+navbare {
+
+ 	background-color: #FFFFFF; 
+ 	color: #000000;
+ 	padding: 10px 0px 0px 10px ;	
+ }
+
+
+
+Footer 
+
+ .navbare {
+
+ 	background-color: #FFFFFF; 
+ 	color: #000000;
+ 	padding: 10px 0px 0px 10px ;	
+ }
+
+ .navbare ul {
+ 	display: flex;
+ 	justify-content: space-between;
+ 	list-style: none;
+ }
+
+ .navbare ul a {
+ 	 	text-decoration: none;
+ 	color: black;
+ }
+
+ .nav-lien {
+ 	display: flex;
+ 	align-items: center;
+ }
+
+  .nav-lien li {
+ 	margin-right: 20px;
+ 	font-family: 'Quicksand', sans-serif;
+ }
+
+
+ .nav > li {
+
+ 	display: inline-block;
+ 	padding-right: 50px;
+ 	font-size: 20px; 
+ 	font-family: 'Quicksand', sans-serif;
+
+
+ }
+
+ .nav > li > a {
+
+ 	text-decoration: none;
+ 	color: #000000; 
+
+
+ }
+
+ .nav > li > a:hover {
+
+ 	color : #707070 ;
+
+
+ } 
